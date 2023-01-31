@@ -77,6 +77,10 @@ class ComposerStaticInit5ca5d5b361e23440f792deccd927d692
         array (
             'enshrined\\svgSanitize\\' => 22,
         ),
+        'd' => 
+        array (
+            'doublesecretagency\\digitaldownload\\' => 35,
+        ),
         'c' => 
         array (
             'creocoder\\nestedsets\\' => 21,
@@ -278,8 +282,8 @@ class ComposerStaticInit5ca5d5b361e23440f792deccd927d692
         'voku\\' => 
         array (
             0 => __DIR__ . '/..' . '/voku/portable-ascii/src/voku',
-            1 => __DIR__ . '/..' . '/voku/portable-utf8/src/voku',
-            2 => __DIR__ . '/..' . '/voku/stop-words/src/voku',
+            1 => __DIR__ . '/..' . '/voku/stop-words/src/voku',
+            2 => __DIR__ . '/..' . '/voku/portable-utf8/src/voku',
         ),
         'verbb\\navigation\\' => 
         array (
@@ -314,6 +318,10 @@ class ComposerStaticInit5ca5d5b361e23440f792deccd927d692
         'enshrined\\svgSanitize\\' => 
         array (
             0 => __DIR__ . '/..' . '/enshrined/svg-sanitize/src',
+        ),
+        'doublesecretagency\\digitaldownload\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/doublesecretagency/craft-digitaldownload/src',
         ),
         'creocoder\\nestedsets\\' => 
         array (
@@ -589,7 +597,7 @@ class ComposerStaticInit5ca5d5b361e23440f792deccd927d692
         ),
         'Doctrine\\Common\\Lexer\\' => 
         array (
-            0 => __DIR__ . '/..' . '/doctrine/lexer/lib/Doctrine/Common/Lexer',
+            0 => __DIR__ . '/..' . '/doctrine/lexer/src',
         ),
         'Doctrine\\Common\\Collections\\' => 
         array (

@@ -56,4 +56,20 @@ return array (
     'documentationUrl' => 'https://github.com/verbb/navigation',
     'changelogUrl' => 'https://raw.githubusercontent.com/verbb/navigation/craft-4/CHANGELOG.md',
   ),
+  'doublesecretagency/craft-digitaldownload' => 
+  array (
+    'class' => 'doublesecretagency\\digitaldownload\\DigitalDownload',
+    'basePath' => $vendorDir . '/doublesecretagency/craft-digitaldownload/src',
+    'handle' => 'digital-download',
+    'aliases' => 
+    array (
+      '@doublesecretagency/digitaldownload' => $vendorDir . '/doublesecretagency/craft-digitaldownload/src',
+    ),
+    'name' => 'Digital Download',
+    'version' => '2.2.1',
+    'description' => 'Provide secure digital download links to your files.',
+    'developer' => 'Double Secret Agency',
+    'developerUrl' => 'https://www.doublesecretagency.com/plugins',
+    'documentationUrl' => 'https://www.doublesecretagency.com/plugins/digital-download/docs',
+  ),
 );

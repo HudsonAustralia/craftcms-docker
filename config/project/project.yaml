@@ -1,4 +1,4 @@
-dateModified: 1670937746
+dateModified: 1675058132
 email:
   fromEmail: wangweihan1992@gmail.com
   fromName: craftcms
@@ -51,6 +51,11 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: '2.0'
+  digital-download:
+    edition: standard
+    enabled: true
+    licenseKey: 0RRB0OHEZUKP97HX6BK11T48
+    schemaVersion: 2.1.0
   navigation:
     edition: standard
     enabled: true

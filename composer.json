@@ -3,6 +3,7 @@
     "craftcms/aws-s3": "2.0.1",
     "craftcms/cms": "^4.2.0.2",
     "craftcms/redactor": "3.0.2",
+    "doublesecretagency/craft-digitaldownload": "2.2.1",
     "verbb/navigation": "2.0.14",
     "vlucas/phpdotenv": "^5.4.0"
   },

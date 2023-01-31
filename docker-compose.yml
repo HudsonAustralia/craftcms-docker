@@ -9,6 +9,7 @@ services:
     env_file: .env
     environment:
       XDEBUG_CONFIG: client_host=host.docker.internal
+      PHP_POST_MAX_SIZE: 16M
     #mysql和redis跑起来后才会跑craftcms 
     depends_on:
       - mysql
